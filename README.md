@@ -26,7 +26,7 @@
   * has_one :through
   * has_and_belongs_to_many
 
-За самой подробной информацией, как всегда, нужно обращаться в документацию([русский](http://rusrails.ru/active-record-associations)), [английский](http://guides.rubyonrails.org/association_basics.html):
+За самой подробной информацией, как всегда, нужно обращаться в документацию([русский](http://rusrails.ru/active-record-associations), [английский](http://guides.rubyonrails.org/association_basics.html)):
 
 ### belongs_to
 
@@ -106,7 +106,7 @@ Rails 4.2.7.1
 ```
 >В новых версиях Ruby и Ruby On Rails, команды имеют другой вид, но это не должно создать особых проблем.
 
-####Создаем новое приложение
+#### Создаем новое приложение
 
 ```
 $ rails new agency
